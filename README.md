@@ -1,4 +1,4 @@
-Takip ettiğim bloglar, sizinde blogunuz varsa pull request gönderin =)
+Takip ettiğim bloglar, sizinde blogunuz varsa pull request gönderin lütfen
 
 # Development Blogs
 
