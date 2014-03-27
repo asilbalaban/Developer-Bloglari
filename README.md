@@ -2,7 +2,7 @@
 
 Amaç Türk ve yabancı faydalı development günlüklerini bir arada toplamaktır. İlk etapta ben takip ettiğim bazı blogları yazdım. (Eğer sizin blogunuza kendimce bir açıklama yazdıysam istediğiniz gibi düzeltebilirsiniz) Sizde tutorial ve development notları yer alan bir bloga sahipseniz veya beğenerek takip ettiğiniz böyle bir blog varsa ve bu listede yer alıyorsa **pull request** göndermekten çekinmeyin. 
 
-** Eklediğiniz blogun alfabetik olarak doğru sırada olduğundan emin olun. **
+**Eklediğiniz blogun alfabetik olarak doğru sırada olduğundan emin olun.**
 
 [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [J](#j) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [V](#v) - [W](#w) - [X](#x) - [Y](#y) - [Z](#z) - [Kategorisiz](#kategorisiz)
 
