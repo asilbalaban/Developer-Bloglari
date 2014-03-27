@@ -1,4 +1,9 @@
-# Development Blogs
+# Developer Blogları
+
+Amaç Türk ve yabancı faydalı development günlüklerini bir arada toplamaktır. İlk etapta ben takip ettiğim bazı blogları yazdım. Sizde tutorial ve development notları yer alan bir bloga sahipseniz veya beğenerek takip ettiğiniz böyle bir blog varsa ve bu listede yer alıyorsa **pull request** göndermekten çekinmeyin. 
+
+
+
 
 * http://www.criticalstriker.com/
 * http://ugur.ozyilmazel.com/
