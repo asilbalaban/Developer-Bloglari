@@ -1,5 +1,3 @@
-Takip ettiğim bloglar, sizinde blogunuz varsa pull request gönderin lütfen
-
 # Development Blogs
 
 * http://www.criticalstriker.com/
