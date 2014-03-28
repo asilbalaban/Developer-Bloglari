@@ -38,6 +38,14 @@ DBPATTERNS projesiyle tanıtığım fatih'in blogu, genel olarak python ve devel
 
 http://blog.fatiherikli.com/
 
+## M
+
+### Murat Çorlu
+
+İlk olarak GDG İstanbul etkinliğinde tanıma fırsatı bulduğum Murat Çorlu, JS ve PYTHON hakkında güzel paylaşımlarda bulunuyor
+
+http://muratcorlu.com/
+
 ## T
 
 ### Tayfun Erbilen
@@ -59,7 +67,6 @@ http://ugur.ozyilmazel.com/
 
 
 * http://www.kubilayerdogan.net/
-* http://muratcorlu.com/
 * http://hi.do/
 * http://irfandurmus.com/blog/
 * http://www.harunmemur.com/
