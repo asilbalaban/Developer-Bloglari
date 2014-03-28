@@ -15,6 +15,13 @@ Kendi blogum. Genel olarak PHP, Codeigniter, Laravel yazılarına yer veriyorum.
 
 http://www.asilbalaban.com
 
+## B
+
+### Bora Yalçın
+Web teknolojileri, WordPress, Laravel gibi konularla ile ilgili olarak kullandığım, denediğim yazılımları, eklentileri, yenilikleri, okuduğum makaleleri bir kenara biriktiriyorum.
+
+http://borayalcin.me/
+
 ## C
 
 ### Critical Striker
@@ -62,7 +69,6 @@ http://ugur.ozyilmazel.com/
 * http://mikeeverhart.net/
 * http://scotch.io/
 * http://purak.org/
-* http://borayalcin.me/
 * http://tommcfarlin.com/
 * http://www.omersavas.com/
 * http://www.paulirish.com/
