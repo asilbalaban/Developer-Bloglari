@@ -80,3 +80,5 @@ http://ugur.ozyilmazel.com/
 * http://www.omersavas.com/
 * http://www.paulirish.com/
 * http://yuxel.net/
+* http://www.phpr.org/
+* http://orhanbalci.net/tr/
